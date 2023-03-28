@@ -10,7 +10,7 @@ from base import reset
 from base import set_allow_tokens
 import base 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 #由用户设置记忆等级
